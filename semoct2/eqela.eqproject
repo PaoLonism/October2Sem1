@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SemOct2
+#
+
+projectname: SemOct2
+vendorid: com.sem.oct2
+mainmodule: com.sem.oct2.semoct2
